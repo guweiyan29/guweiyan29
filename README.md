@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @guweiyan29
+- 👀 I’m interested in Undergraduate specializing in Java. 
+- 🌱 I’m currently learning Passionate about improving user experiences through thoughtful design.
